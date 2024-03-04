@@ -1,0 +1,27 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# IntelliJ project files
+.idea/
+
+# Eclipse project files
+.project
+.settings/
+
+# Mac specific files
+.DS_Store
+
+# Gradle build directory
+/build/
+
+# Maven build directory
+/target/
+
+# Java bytecode
+/target/classes/
